@@ -1,0 +1,14 @@
+<root>
+  <head>
+    <info>First XML file</info>
+    <date>2024-10-02</date>
+  </head>
+  <tracker>
+    <item>Item A</item>
+    <value>15</value>
+    <tracker>
+      <item>Item B</item>
+      <value>25</value>
+    </tracker>
+  </tracker>
+</root>

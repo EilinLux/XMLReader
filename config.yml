@@ -1,0 +1,9 @@
+head:
+  - info
+  - date
+
+tracker_element: tracker
+
+item_elements:
+  - item
+  - value
